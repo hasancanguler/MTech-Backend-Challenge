@@ -79,14 +79,17 @@ Don't use any language specific library like reverse() method.
 This solution includes three main project.
 
 - BankAPI
+
     This project which is written with WebAPI ensures that data is received and transfers to data to the main function.
     
     Please [click](https://github.com/hasancanguler/MTech-Backend-Challenge/tree/master/BackendChallenge/BankAPI/readme.md) for details.
     
 - MTechBuss
+
     This project hosts the helper functions as a small library.
     
     Please [click](https://github.com/hasancanguler/MTech-Backend-Challenge/tree/master/BackendChallenge/MTechBuss/readme.md) for details. .
     
  - MTechTest
+ 
     This project makes basic unit test.
