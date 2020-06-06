@@ -25,4 +25,5 @@ public class Debtor
         public string Owes { get; set; }
         public string Payee { get; set; }
         public double Total { get; set; }
+    }
 ```
