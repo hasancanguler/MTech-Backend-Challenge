@@ -82,7 +82,7 @@ This solution includes three main project.
 
     This project which is written with WebAPI ensures that data is received and transfers to data to the main function.
     
-    Please [click](https://github.com/hasancanguler/MTech-Backend-Challenge/tree/master/BackendChallenge/BankAPI/readme.md) for details.
+    Please [click](https://github.com/hasancanguler/MTech-Backend-Challenge/blob/master/BackendChallenge/BankAPI/README.md) for details.
     
 - MTechBuss
 
