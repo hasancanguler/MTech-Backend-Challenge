@@ -1,0 +1,9 @@
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\bin\Debug\netcoreapp3.1\MTechBuss.deps.json
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\bin\Debug\netcoreapp3.1\MTechBuss.dll
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\bin\Debug\netcoreapp3.1\MTechBuss.pdb
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\obj\Debug\netcoreapp3.1\MTechBuss.csprojAssemblyReference.cache
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\obj\Debug\netcoreapp3.1\MTechBuss.csproj.CoreCompileInputs.cache
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\obj\Debug\netcoreapp3.1\MTechBuss.AssemblyInfoInputs.cache
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\obj\Debug\netcoreapp3.1\MTechBuss.AssemblyInfo.cs
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\obj\Debug\netcoreapp3.1\MTechBuss.dll
+C:\Projects\Person\MTech-Backend-Challenge\MTech-Backend-Challenge\BackendChallenge\MTechBuss\obj\Debug\netcoreapp3.1\MTechBuss.pdb

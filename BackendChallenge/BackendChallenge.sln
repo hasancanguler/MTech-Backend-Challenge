@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BankAPI", "BankAPI\BankAPI.csproj", "{2C8FC6A1-5743-4157-9A29-281149E074B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTechBuss", "MTechBuss\MTechBuss.csproj", "{0A8F4B21-068B-4A56-B08C-47842FFC3BB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MTechTest", "MTechTest\MTechTest.csproj", "{4B85EEF6-E9F3-40FA-B0A0-5C04CF981FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C8FC6A1-5743-4157-9A29-281149E074B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C8FC6A1-5743-4157-9A29-281149E074B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C8FC6A1-5743-4157-9A29-281149E074B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C8FC6A1-5743-4157-9A29-281149E074B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A8F4B21-068B-4A56-B08C-47842FFC3BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8F4B21-068B-4A56-B08C-47842FFC3BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8F4B21-068B-4A56-B08C-47842FFC3BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8F4B21-068B-4A56-B08C-47842FFC3BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B85EEF6-E9F3-40FA-B0A0-5C04CF981FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B85EEF6-E9F3-40FA-B0A0-5C04CF981FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B85EEF6-E9F3-40FA-B0A0-5C04CF981FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B85EEF6-E9F3-40FA-B0A0-5C04CF981FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7701FED6-4CA0-4916-89FD-A2FA50A511E8}
+	EndGlobalSection
+EndGlobal
