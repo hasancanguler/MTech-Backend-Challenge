@@ -9,7 +9,7 @@ Main transaction metod name is Start and it takes MoneyTransaction parameter and
 **MoneyTransaction Model :**
 
 ```C#
-public class MoneyTransaction
+    public class MoneyTransaction
     {
         public string Sender { get; set; }
         public string Receiver { get; set; }
@@ -20,7 +20,7 @@ public class MoneyTransaction
 **Debtor Model :**
 
 ```C#
-public class Debtor
+    public class Debtor
     {
         public string Owes { get; set; }
         public string Payee { get; set; }
