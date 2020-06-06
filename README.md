@@ -88,7 +88,7 @@ This solution includes three main project.
 
     This project hosts the helper functions as a small library.
     
-    Please [click](https://github.com/hasancanguler/MTech-Backend-Challenge/tree/master/BackendChallenge/MTechBuss/readme.md) for details. .
+    Please [click](https://github.com/hasancanguler/MTech-Backend-Challenge/blob/master/BackendChallenge/MTechBuss/README.md) for details. .
     
  - MTechTest
  
