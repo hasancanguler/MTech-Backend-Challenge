@@ -7,14 +7,17 @@ Please answer two questions listed below. We want you to present your answers pr
 
 
 **Q1. **
+
 Write a function that takes a list of money transfer transactions performed among a group of banks and returns the result that indicates which bank owes how much to other banks. Please check the expected output section below.
 
 **Notes:**
+
 If the balance between two banks is zero, it should not be included in the result. The amounts in the output needs to be positive.
 Please notice that a bank can send money to another bank in multiple lines of transactions. 
 A receiver bank can be a sender bank in another transaction record.
 
 **_Sample input:_**
+
 [
   {
     "sender": "BankA",
@@ -48,20 +51,25 @@ A receiver bank can be a sender bank in another transaction record.
   }
 ]
 
+
 **_Expected output:_**
+
 BankB owes BankA  250
 BankB owes BankC 60
 BankA owes BankC 100
 
 
 **Q2.** 
+
 Write a function that reverses an array of integers in place. Don't allocate extra space for another array. 
 Don't use any language specific library like reverse() method. 
 
 **_Sample input_**
+
 [1,4,6,9]
 
 **_Expected output:_**
+
 [9,6,4,1]
 
 ## Solution :
