@@ -6,7 +6,7 @@ M.. Technology application questions and answers
 Please answer two questions listed below. We want you to present your answers preferably with clean Javascript, but any other language is welcome. Presented code should be well documented and testable. 
 
 
-**Q1. **
+**Q1.**
 
 Write a function that takes a list of money transfer transactions performed among a group of banks and returns the result that indicates which bank owes how much to other banks. Please check the expected output section below.
 
