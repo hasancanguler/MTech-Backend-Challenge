@@ -54,8 +54,8 @@ A receiver bank can be a sender bank in another transaction record.
 
 **_Expected output:_**
 
-BankB owes BankA  250
-BankB owes BankC 60
+BankB owes BankA  250 
+BankB owes BankC 60 
 BankA owes BankC 100
 
 
